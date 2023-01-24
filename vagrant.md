@@ -50,8 +50,8 @@ What did you need to do to provision a vm to:
 | reload    | Reload configuration | When the VagrantFile is changed/edited|
 | up        | Initialising the virtual machines | To start/initialise the machines |
 | provision | Takes a shell commands script that will be automatically dony by the virtual machine | Used it after initialisation or when the shell scripts are edited |
-| destroy   | Saves the exact point in time of the vagrant machine rather than completely shutting it off | When further work is required to be done on the virtual machines however you don't want to have them run in the background until that work is done |
-| suspend   | Shuts down the virtual machines | When the virtual machines need to be stopped from running |
+| destroy   | Shuts down the virtual machines | When the virtual machines need to be stopped from running |
+| suspend   | Saves the exact point in time of the vagrant machine rather than completely shutting it off | When further work is required to be done on the virtual machines however you don't want to have them run in the background until that work is done |
 | ssh       | Allows entering the virtual environment of the the virtual machines | When needing to edit/create/run files that were specific to the virtual machine |
 
 #### Provisioning
