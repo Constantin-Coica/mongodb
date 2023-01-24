@@ -8,6 +8,7 @@ What did you need to do to provision a vm to:
     1. Download node.
     2. Install node.
     3. Install the dependencies in the folder where the main app is located.
+    4. Run the node.js 
 - Use the `nology.training` alias?
     1. Create a nology-proxy.conf file, where we define the server name and its alias.
     2. Replace it in the environment, in the sites-avaiable folder.
