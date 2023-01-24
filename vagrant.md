@@ -1,6 +1,7 @@
 # Provisioning project
 
 What did you need to do to provision a vm to run mongo db?
+    Written and a provision script where apache2 and mongodb were installed and configured.
 
 What did you need to do to provision a vm to:
 
