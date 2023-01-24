@@ -16,7 +16,6 @@ What did you need to do to provision a vm to:
     1. Editing/creating a new 000-default.conf and change the IP to allow access from every adress (Binding ip: 0.0.0.0)
 - How are you able to pass in the DB connection string?
     1. By adding the DB_Path to myvars.sh in the etc/profile.d folder.
-
 ---
 
 ## General Environment Questions
@@ -25,6 +24,7 @@ What did you need to do to provision a vm to:
     A virtual space where implementations and changes can be made ensuring the original project data is protected
         and changes that would make it not work are not made.
 - How do they relate to an application?
+    Application can be run without making possible damaging changes to the physical/original machine.
 
 
 ### Virtual machines
